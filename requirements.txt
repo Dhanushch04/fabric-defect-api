@@ -3,6 +3,6 @@ uvicorn==0.30.6
 tensorflow-cpu==2.20.0
 opencv-python-headless==4.10.0.84
 joblib==1.4.2
-numpy==1.26.4
+numpy>=2.1.0
 starlette==0.37.2
 gdown==5.2.0
