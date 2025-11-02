@@ -7,3 +7,4 @@ numpy>=2.1.0
 starlette==0.37.2
 gdown==5.2.0
 python-multipart==0.0.9
+scikit-learn==1.5.2
